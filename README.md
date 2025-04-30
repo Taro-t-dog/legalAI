@@ -27,8 +27,8 @@
 
 1. リポジトリをクローン:
 ```
-git clone https://github.com/YourUsername/legal-ai-assistant.git
-cd legal-ai-assistant
+git clone https://github.com/YourUsername/legalAI
+cd legalAI
 ```
 
 2. 必要なライブラリをインストール:
