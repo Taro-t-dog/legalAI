@@ -27,7 +27,7 @@
 
 1. リポジトリをクローン:
 ```
-git clone https://github.com/YourUsername/legalAI
+git clone https://github.com/Taro-t-dog/legalAI
 cd legalAI
 ```
 
