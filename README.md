@@ -56,7 +56,7 @@ streamlit run app.py
 
 ### 使用API
 
-- **e-Gov法令API**: 日本の法令データ取得用 (https://laws.e-gov.go.jp/api/1)
+- **e-Gov法令API**: 日本の法令データ取得用 
 - **Google Gemini API**: 自然言語処理と回答生成用
 
 ### 主要コンポーネント
