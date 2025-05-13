@@ -36,7 +36,7 @@ cd legalAI
 pip install requests google-generativeai python-dotenv streamlit lxml
 ```
 
-3. `.env`ファイルで、Google APIキーを設定:
+3. `.env`ファイルを作成し、Google APIキーを設定:
 ```
 GOOGLE_API_KEY=your_google_api_key_here
 ```
